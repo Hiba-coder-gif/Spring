@@ -1,0 +1,39 @@
+
+header {
+    border: 2px solid #ff7f50; 
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; 
+    color: #333; 
+    margin: 0;
+    padding: 0;
+}
+
+
+h1, h2, h3 {
+    color: white; 
+    text-decoration: underline; 
+    padding: 10px;
+    border-radius: 5px;
+}
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #e9ecef; /* Fond gris très clair pour les sections */
+    border-radius: 5px;
+}
+
+aside {
+    padding: 15px;
+    background-color: #f1f1f1; /* Fond pour la barre latérale */
+    border: 1px solid #ddd; /* Bordure grise */
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
